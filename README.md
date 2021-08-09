@@ -54,7 +54,7 @@
 
     A virtual library to manage your books and mark them as read. Built with: VanillaJS, Google authentication, Firebase realtime Db.
 
--   ### [Mern Shopping List](https://github.com/zivkaplan/Traversy-mern-shopping-list)
+-   ### [MERN Shopping List](https://github.com/zivkaplan/Traversy-mern-shopping-list)
 
     Shopping list app built with the MERN stack along with Redux for state management, Reactstrap and react-transition-group.
 
