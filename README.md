@@ -16,7 +16,7 @@
 [<img align="left" alt="ZivKaplan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ZivKaplan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ZivKaplan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="ZivKaplan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
 
 ### 🛠 Languages and Tools:
@@ -96,5 +96,6 @@
 [website]: https://linktr.ee/zivkap
 [twitter]: https://twitter.com/zivkaplan
 [youtube]: https://www.youtube.com/user/TheZivkaplan
-[instagram]: https://instagram.com/zivkaplan
-[linkedin]: https://linkedin.com/in/zivkaplan
+[instagram]: https://instagram.com/zivkap
+[facebook]: https://facebook.com/zivkap
+[linkedin]: https://www.linkedin.com/in/ziv-kaplan-947028207/
