@@ -96,6 +96,6 @@
 
 [website]: https://linktr.ee/zivkap
 [twitter]: https://twitter.com/zivkaplan
-[youtube]: https://youtube.com/zivkaplan
+[youtube]: https://www.youtube.com/user/TheZivkaplan
 [instagram]: https://instagram.com/zivkaplan
 [linkedin]: https://linkedin.com/in/zivkaplan
