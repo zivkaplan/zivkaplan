@@ -72,7 +72,7 @@
 
 <!-- COURSES-LIST:START -->
 
--   #### Front-End (HTML, JS, CSS)
+-   #### Front-End (HTML, CSS, JS)
 
     -   [The Web Developer Bootcamp 2021 / Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
     -   [The Complete 2021 Web Development Bootcamp / Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
