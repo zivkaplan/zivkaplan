@@ -47,7 +47,7 @@
 
 -   ### [Spotify Now](https://github.com/zivkaplan/SpotifyNow)
 
-    Log in to your Spotify account, search for music and display your library. a PWA (Progressive Web App) Build with: VanillaJS, NodeJs(Express, Axios), MongoDB.
+    Log in to your Spotify account, search for music and display your library. a PWA (Progressive Web App) Build with: VanillaJS, NodeJs (Express, Axios), MongoDB.
 
 -   ### [Book library](https://github.com/zivkaplan/Book-library)
 
