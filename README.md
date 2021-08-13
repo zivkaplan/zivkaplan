@@ -92,7 +92,7 @@
 
 -   B.Mus in Percussion Performance from the Jerusalem Academy of Music and Dance
 -   M.Mus in Percussion Performance from the Tel-Aviv University
--   Almost finished my M.A in Musicology from the Tel-Aviv University
+-   Currently working on my M.A in Musicology from the Tel-Aviv University
 
 [website]: https://linktr.ee/zivkap
 [twitter]: https://twitter.com/zivkaplan
