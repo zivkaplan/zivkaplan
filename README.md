@@ -71,7 +71,7 @@
 
     A small TensorFlow script using the MNIST db to train a model to recognize hand-written digits.
 
-        ➡️ [more projects...](https://github.com/zivkaplan/Projects-repo)
+    ➡️ [more projects...](https://github.com/zivkaplan/Projects-repo)
 
 <!-- PROJECTS:END -->
 
