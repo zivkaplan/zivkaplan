@@ -7,6 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zivkaplan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2zivkaplan&screen_name=zivkaplan)
 
 -   ⚛️ Currently working on my React Skills
+-   🤖 Learning tensorFlow
 -   🌱 Constantly learning!
 -   👯 Looking for a job!
 
@@ -42,6 +43,10 @@
 
 <!-- PROJECTS:START -->
 
+-   ### [Sudoku Solver](https://github.com/zivkaplan/Sudoku-Solver)
+
+    A front-end application that a user can input his unsolved sudoku puzzle and get the a solved board.
+
 -   ### [Yelp-Camp](https://github.com/zivkaplan/YelpCamp)
 
     A Yelp-like site for camp sites. Build with: NodeJS (Express, ejs, Passport) MongoDB, Bootstrap ,Mapbox & Cloudinary API's
@@ -62,7 +67,11 @@
 
     Play a game of Hexapwan against the computer as it learns each round!
 
-➡️ [more projects...](https://github.com/zivkaplan/Projects-repo)
+-   ### [ML - Handwritten Digit Recognition model](https://github.com/zivkaplan/Handwritten-Digit-Recognition-ML)
+
+    A small TensorFlow script using the MNIST db to train a model to recognize hand-written digits.
+
+        ➡️ [more projects...](https://github.com/zivkaplan/Projects-repo)
 
 <!-- PROJECTS:END -->
 
@@ -83,7 +92,7 @@
 
     -   [Self.py / National Cyber Security Authority In Collaboration With the Center for Cyber Education](https://campus.gov.il/en/course/course-v1-cs-gov_cs_selfpy101/)
     -   [Next.py / National Cyber Security Authority In Collaboration With the Center for Cyber Education](https://campus.gov.il/course/course-v1-cs-gov-cs-nextpy102/)
-
+    -   [Intro to TensorFlow for Deep Learning / Udacity (currently learning it!)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
     <!-- COURSES-LIST:END -->
 
 ---
