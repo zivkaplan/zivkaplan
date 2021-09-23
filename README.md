@@ -43,6 +43,10 @@
 
 <!-- PROJECTS:START -->
 
+-   ### [React Colors Project](https://github.com/zivkaplan/React-Color-project)
+
+    React clone of website like Flat UI Colors and Material UI Colors
+
 -   ### [Sudoku Solver](https://github.com/zivkaplan/Sudoku-Solver)
 
     A front-end application that a user can input his unsolved sudoku puzzle and get the a solved board.
