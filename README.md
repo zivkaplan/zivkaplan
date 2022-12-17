@@ -4,9 +4,9 @@
 
 <br />
 
--   ♾️ Currently doing the [Infinity Labs](https://infinitylabs.co.il/) training.
+-   💼 Beckend developer for [Akamai Guardicore Segmentation](https://www.akamai.com/products/akamai-segmentation)
+-   ♾️ [Infinity Labs](https://infinitylabs.co.il/) alumni
 -   🌱 Constantly learning!
--   👯 Looking for a job!
 
 ### ✉️ Connect with me:
 
@@ -107,9 +107,9 @@
 
 ### 🎓 Formal Education [Music]:
 
--   B.Mus in Percussion Performance from the Jerusalem Academy of Music and Dance
+-   M.A in Musicology from the Tel-Aviv University
 -   M.Mus in Percussion Performance from the Tel-Aviv University
--   Currently working on my M.A in Musicology from the Tel-Aviv University
+-   B.Mus in Percussion Performance from the Jerusalem Academy of Music and Dance
 
 [website]: https://linktr.ee/zivkap
 [twitter]: https://twitter.com/zivkaplan
