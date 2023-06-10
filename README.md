@@ -4,7 +4,7 @@
 
 <br />
 
--   💼 Beckend developer for [Akamai Guardicore Segmentation](https://www.akamai.com/products/akamai-segmentation)
+-   💼 Backend developer for [Akamai Guardicore Segmentation](https://www.akamai.com/products/akamai-segmentation)
 -   ♾️ [Infinity Labs](https://infinitylabs.co.il/) alumni
 -   🌱 Constantly learning!
 
